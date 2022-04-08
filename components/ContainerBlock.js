@@ -10,7 +10,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const meta = {
     title: "Samuel Lee - Developer and Fiction Writer",
     description: `I've only been a developer for less than two years, but I've been writing for a lot longer. If you want to talk to me about either, let me know!`,
-    image: "/avatar.png",
+    image: "/avatar1.jpg",
     type: "website",
     ...customMeta,
   };

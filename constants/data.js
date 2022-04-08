@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "AgentSamSA",
   name: "Samuel Lee",
   designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "/avatar1.jpg",
   email: "samuelxlee@gmail.com",
   phone: "+1 4255053276",
   address: "Bellevue, Washington, United States.",
@@ -61,7 +61,7 @@ const userData = {
     twitter: "https://twitter.com/agentsaa",
     linkedin: "https://linkedin.com/in/samxlee",
     github: "https://github.com/agentsamsa",
-    facebook: "https://facebook.com/",
+    facebook: "https://facebook.com/samuel.lee.3551/",
   },
 };
 
