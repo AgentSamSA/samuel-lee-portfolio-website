@@ -55,7 +55,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/17vD_8snLE5lkP-fXcO8Bajg-cGLJ9wNC/view?usp=sharing",
+    "https://drive.google.com/file/d/1q9FcjGFga77AJ6aILaXaXeRpiGGLT1jZ/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/samuel.lee0815",
     twitter: "https://twitter.com/agentsaa",

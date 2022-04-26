@@ -170,7 +170,7 @@ export default function AboutMe() {
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
                 className="h-20 w-20 mx-4 my-4"
               />
-              <img src="" className="h-20 w-20 mx-4 my-4" />
+              <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" className="h-20 w-20 mx-4 my-4" />
             </div>
           </div>
         </div>
