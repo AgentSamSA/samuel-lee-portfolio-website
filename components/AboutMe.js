@@ -15,7 +15,7 @@ export default function AboutMe() {
             className="leading-loose text-2xl md:text-4xl font-semibold  mx-4"
             style={{ lineHeight: "3rem" }}
           >
-            {userData.about.title}. Currently working on{" "}
+            {userData.about.title} Currently working on{" "}
             <a
               className="bg-red-500 rounded-md px-2 py-1 text-white"
               href={userData.about.currentProjectUrl}
@@ -170,7 +170,18 @@ export default function AboutMe() {
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
                 className="h-20 w-20 mx-4 my-4"
               />
-              <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" className="h-20 w-20 mx-4 my-4" />
+              <img
+                src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
+                src="https://www.quantumversity.com/wp-content/uploads/2020/11/Fundamentals-of-Node.png"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
+                src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"
+                className="h-20 w-20 mx-4 my-4"
+              />
             </div>
           </div>
         </div>

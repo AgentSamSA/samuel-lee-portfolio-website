@@ -19,7 +19,7 @@ const userData = {
     description: [
       `My first experience with programming was a C# book my dad tried to make me read when I was 13. I didn't understand anything and it only made me frustrated so he let me stop, but not before begrudingly telling me it was "meant for beginners."`,
       `The next time would be in my freshmen year of college, where I barely passed my Intro to CS class and failed the next one in the series. I wouldn't touch programming again until 3 months before I graduated, where I decided on a whim (and because of COVID) to take a fairly intensive online Java course which I managed to complete in 2 months.`,
-      `Now I'm balancing job applications, learning/improving my technical skills, and writing. `,
+      `Now after a stint at a bootcamp, I'm balancing job applications, learning/improving my technical skills, and writing. I hope to be able to continue to grow my career and build projects that are both interesting and challenging, as well as continue to tell stories through my writing!`,
     ],
     currentProject: "Something involving Typescript and React!",
     currentProjectUrl: "",
@@ -55,7 +55,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1q9FcjGFga77AJ6aILaXaXeRpiGGLT1jZ/view?usp=sharing",
+    "https://drive.google.com/file/d/1rCa41ue7OiwKSOtymRZrI1mk452BwWs3/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/samuel.lee0815",
     twitter: "https://twitter.com/agentsaa",
