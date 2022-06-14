@@ -12,6 +12,11 @@ const userData = {
       link: "https://a.humanrightsfirst.dev/",
       imgUrl: "/bluewitness.png",
     },
+    {
+      title: "Random Map Pins",
+      link: "https://github.com/AgentSamSA/maps",
+      imgUrl: "/randommappins.png",
+    },
   ],
   about: {
     title:
