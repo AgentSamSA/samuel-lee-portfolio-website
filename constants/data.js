@@ -31,6 +31,13 @@ const userData = {
   },
   experience: [
     {
+      title: "Consultant",
+      company: "GenSpark",
+      year: "2022",
+      companyLink: "https://genspark.net/",
+      desc: "Currently undergoing training for Java Fullstack development.",
+    },
+    {
       title: "Software Contractor",
       company: "Ivee",
       year: "2022",
