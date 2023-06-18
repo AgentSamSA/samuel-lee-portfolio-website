@@ -171,15 +171,23 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
+                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
                 src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://www.quantumversity.com/wp-content/uploads/2020/11/Fundamentals-of-Node.png"
+                src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
                 src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png"
+                className="h-20 w-20 mx-4 my-4"
+              />
+              <img
+                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"
                 className="h-20 w-20 mx-4 my-4"
               />
             </div>

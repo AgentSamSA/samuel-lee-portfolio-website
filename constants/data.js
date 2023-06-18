@@ -1,11 +1,11 @@
 const userData = {
   githubUsername: "AgentSamSA",
   name: "Samuel Lee",
-  designation: "Full-Stack Developer",
+  designation: "Full Stack Developer",
   avatarUrl: "/avatar1.jpg",
   email: "samuelxlee@gmail.com",
   phone: "+1 4255053276",
-  address: "Bellevue, Washington, United States.",
+  address: "Seattle, Washington, United States.",
   projects: [
     {
       title: "Blue Witness",
@@ -31,16 +31,23 @@ const userData = {
   },
   experience: [
     {
-      title: "Consultant",
+      title: "Software Engineer I",
+      company: "LexisNexis",
+      year: "November 2022 - April 2023",
+      companyLink: "https://www.lexisnexis.com/en-us/gateway.page",
+      desc: "Helped fix UI and UX bugs, planned new product features for mergers and acquisitions service, learned and implemented solutions in Angular and C#.",
+    },
+    {
+      title: "Java Full Stack Developer - Spring",
       company: "GenSpark",
-      year: "2022",
+      year: "July 2022 - April 2023",
       companyLink: "https://genspark.net/",
-      desc: "Currently undergoing training for Java Fullstack development.",
+      desc: "Working on Spring-based Java projects.",
     },
     {
       title: "Software Contractor",
       company: "Ivee",
-      year: "2022",
+      year: "Jan - April 2022",
       companyLink: "https://iveeapp.com",
       desc: "Helped implement and maintain new features on the marketing website, as well as tracking certain marketing data and sending it to our data platform, mParticle.",
     },
@@ -67,7 +74,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1OANApnFhY7jzyrNM8bMCj1Uw9Rxbfwmi/view?usp=sharing",
+    "https://drive.google.com/file/d/1Icd7BVvvUzVqX9O_ekggUwAql5bJoBE1/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/samuel.lee0815",
     twitter: "https://twitter.com/agentsaa",
