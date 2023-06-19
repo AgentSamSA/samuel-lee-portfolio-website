@@ -17,6 +17,11 @@ const userData = {
       link: "https://github.com/AgentSamSA/maps",
       imgUrl: "/randommappins.png",
     },
+    {
+      title: "Elite and Dangerous",
+      link: "https://samuelxlee.substack.com/",
+      imgUrl: "/substack.png",
+    }
   ],
   about: {
     title:
