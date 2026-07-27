@@ -60,3 +60,11 @@ export default function Hero() {
     </div>
   );
 }
+
+// export default function Hero() {
+//   return (
+//     <div>
+//       Hello Hero
+//     </div>
+//   );
+// }

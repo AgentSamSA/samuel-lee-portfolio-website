@@ -5,7 +5,7 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 
 export default function ContainerBlock({ children, ...customMeta }) {
-  const router = useRouter();
+  const {pathname} = useRouter();
 
   const meta = {
     title: "Samuel Lee - Developer and Fiction Writer",
@@ -22,11 +22,11 @@ export default function ContainerBlock({ children, ...customMeta }) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://yourwebsite.com${router.asPath}`}
+          content={`https://yourwebsite.com${pathname}`}
         />
         <link
           rel="canonical"
-          href={`https://yourwebsite.com${router.asPath}`}
+          href={`https://yourwebsite.com${pathname}`}
         />
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content="Samuel Lee" />

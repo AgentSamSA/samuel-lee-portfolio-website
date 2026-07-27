@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import ContainerBlock from "../components/ContainerBlock";
-import FavouriteProjects from "../components/FavouriteProjects";
+import FavouriteProjects from "../components/FavoriteProjects";
 import LatestCode from "../components/LatestCode";
 import Hero from "../components/Hero";
 import getLatestRepos from "@lib/getLatestRepos";
@@ -33,3 +33,14 @@ export const getServerSideProps = async () => {
     },
   };
 };
+
+// export default function Home({ repositories }) {
+//   return (
+//     <ContainerBlock
+//       title="Samuel Lee - Developer, Fiction Writer, Military History Nerd"
+//       description="test"
+//     >
+//       <Hero />
+//     </ContainerBlock>
+//   );
+// }

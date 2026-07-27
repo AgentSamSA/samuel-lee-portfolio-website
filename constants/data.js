@@ -1,46 +1,60 @@
 const userData = {
   githubUsername: "AgentSamSA",
   name: "Samuel Lee",
-  designation: "Full Stack Developer",
+  designation: "Software/Data Engineer",
   avatarUrl: "/avatar1.jpg",
   email: "samuelxlee@gmail.com",
   phone: "+1 4255053276",
   address: "Seattle, Washington, United States.",
   projects: [
     {
-      title: "Blue Witness",
-      link: "https://a.humanrightsfirst.dev/",
-      imgUrl: "/bluewitness.png",
+      title: "mtg-mechanics-parser",
+      link: "https://github.com/AgentSamSA/mtg-mechanics-parser",
+      imgUrl: "/mtgmechanicsparser.png",
     },
     {
-      title: "Random Map Pins",
-      link: "https://github.com/AgentSamSA/maps",
-      imgUrl: "/randommappins.png",
+      title: "Creature Power Creep in Magic: The Gathering",
+      link: "https://github.com/AgentSamSA/Creature-Power-Creep-in-MtG",
+      imgUrl: "/mtgpowercreep.png",
     },
     {
-      title: "Elite and Dangerous",
-      link: "https://samuelxlee.substack.com/",
-      imgUrl: "/substack.png",
-    }
+      title: "The Creator's Companion",
+      link: "https://www.amazon.com/dp/B0C65YQMBH",
+      imgUrl: "/book.jpg",
+    },
   ],
   about: {
     title:
       "I'm a growing software developer in the early stage of my career, who wants to help create technologies that can all make our lives easier, as well as tell unique stories with the tech that we use each day. I also love writing stories!",
     description: [
-      `My first experience with programming was a C# book my dad tried to make me read when I was 13. I didn't understand anything and it only made me frustrated so he let me stop, but not before begrudingly telling me it was "meant for beginners."`,
-      `The next time would be in my freshmen year of college, where I barely passed my Intro to CS class and failed the next one in the series. I wouldn't touch programming again until 3 months before I graduated, where I decided on a whim (and because of COVID) to take a fairly intensive online Java course which I managed to complete in 2 months.`,
-      `Now after a stint at a bootcamp, I'm balancing job applications, learning/improving my technical skills, and writing. I hope to be able to continue to grow my career and build projects that are both interesting and challenging, as well as continue to tell stories through my writing!`,
+      `Went to college early, wasn't ready, managed to graduate at the start of COVID with an English degree. Self-studied and grinded into learning how to code. Spent about a year in various roles doing mainly product-focused development.`,
+      `Had the opportunity to go back to school for a Master's degree, spent more time coding. Self-published my first book and am working on the second one. Built a neat rules-based parser to try and figure out of Magic: The Gathering cards are getting too strong too fast. Short answer: yes.`,
+      `I still love to build, I still love write, I'd love to build something even cooler and at scale with the software engineering skills I've learned.`
     ],
-    currentProject: "Something involving Typescript and React!",
-    currentProjectUrl: "",
+    currentProject: "mtg-mechanics-parser",
+    currentProjectUrl: "https://github.com/AgentSamSA/mtg-mechanics-parser",
   },
   experience: [
+    {
+      title: "Master's Degree",
+      company: "University of Washington Information School",
+      year: "September 2024 - June 2026",
+      companyLink: "https://ischool.uw.edu/",
+      desc: "Went back to school for a BS in Information Management!",
+    },
+    {
+      title: "Reader/Grader",
+      company: "University of Washington Information School",
+      year: "December 2025 - June 2026",
+      companyLink: "https://ischool.uw.edu/",
+      desc: "Graded assignments for the MSIM program's Introduction to Programming course, as well as helped teach students foundational programming concepts.",
+    },
     {
       title: "Software Engineer I",
       company: "LexisNexis",
       year: "November 2022 - April 2023",
       companyLink: "https://www.lexisnexis.com/en-us/gateway.page",
-      desc: "Helped fix UI and UX bugs, planned new product features for mergers and acquisitions service, learned and implemented solutions in Angular and C#.",
+      desc: "Helped fix UI and UX bugs across an extensive enterprise codebase, planned new product features for a mergers and acquisitions service, learned and implemented solutions in Angular and C#, including two new features.",
     },
     {
       title: "Java Full Stack Developer - Spring",
@@ -55,27 +69,6 @@ const userData = {
       year: "Jan - April 2022",
       companyLink: "https://iveeapp.com",
       desc: "Helped implement and maintain new features on the marketing website, as well as tracking certain marketing data and sending it to our data platform, mParticle.",
-    },
-    {
-      title: "Junior SDET - Intern",
-      company: "Infostretch Corporation",
-      year: "2021",
-      companyLink: "https://www.infostretch.com/",
-      desc: "Interned for 2 months to help develop skills and work on internal projects within the company.",
-    },
-    {
-      title: "Technical Certification",
-      company: "Bloom Institute of Technology",
-      year: "2021",
-      companyLink: "https://www.bloomtech.com/",
-      desc: "Learned web development and other skills from here, via their six-month Full-Stack Web Development Track.",
-    },
-    {
-      title: "Graduation",
-      company: "University of Washington",
-      year: "2020",
-      companyLink: "https://www.washington.edu/",
-      desc: "Went here early as part of UW Academy and majored in English, in part because of my love for writing.",
     },
   ],
   resumeUrl:
